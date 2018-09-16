@@ -1,3 +1,4 @@
+// screens/SignUp.styles.js
 
 import { StyleSheet } from 'react-native';
 
